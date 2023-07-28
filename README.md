@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github](https://github.com/AJstyles903/newsletter-sign-up)
+- Live Site URL: [Netlify](https://fascinating-crumble-c842ee.netlify.app/)
 
 ## My process
 
